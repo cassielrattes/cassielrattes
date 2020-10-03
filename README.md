@@ -7,5 +7,4 @@ I'm Cassiel Rattes Cortez.
 I'm a full stack developer :computer:
 
 - :rocket:   I’m currently working at **Werkey**
-- :purple_heart:   React Native
 - :computer:   ReactJS, NodeJS, React Native
