@@ -4,7 +4,11 @@
 
 ## What's up my friends 👋, 
 I'm Cassiel Rattes Cortez.
+
+<!--
 I'm a full stack developer :computer:
 
 - :rocket:   I’m currently working at **Werkey**
 - :computer:   ReactJS, NodeJS, React Native
+
+-->
